@@ -8,7 +8,7 @@ Diff Domain New Tab checks your external links and open in new tab.
 * choose what links to open in new tab or widnow.
 * your website links are filtered automatically
 
-# jQuery Plugin
+# WordPress Plugin
 https://wordpress.org/plugins/diff-domain-new-tab
 
 # jQuery Plugin
